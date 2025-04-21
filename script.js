@@ -14,6 +14,8 @@ const round = document.getElementById('round');
 
 
 const images = [
+
+    
     'images/gon.jpg', 'images/killua.jpg', 'images/feitan.jpg', 'images/kurapika.jpg',
     'images/illumi.jpg', 'images/hisoka.jpg', 'images/chrollo.jpg', 'images/meruem.jpg',
     'images/angry.jpg', 'images/leorio.jpg', 'images/shizuku.jpg', 'images/silva.jpg',
